@@ -1,4 +1,4 @@
-# E-Ticaret Sistemine Kayıt ve Sisteme Giriş Simülasyonu
+#### E-Ticaret Sistemine Kayıt ve Sisteme Giriş Simülasyonu
 - Sisteme kayıt sırasındaki kullanıcı bilgilerinin kısıtlamaları yerine getirildi.
 - Kayıt sırasındaki e-mailin format kontrolü sağlandı.
 - Dış servis entegrasyonu ile Google mail kontrolü sağlandı.
